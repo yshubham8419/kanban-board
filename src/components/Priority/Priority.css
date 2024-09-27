@@ -1,0 +1,15 @@
+.priority-icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #c4c4c4;
+    border-radius: 4px;
+    padding: 3px 3px;
+}
+  
+.priority-icon {
+    height: 16px;
+    width: 16px;
+}
+
+  
